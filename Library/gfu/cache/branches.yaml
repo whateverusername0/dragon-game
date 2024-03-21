@@ -13,13 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:BranchesCache
   cacheType: 2
-  lastUpdatedAtString: 2024-03-16T16:34:11.360+10:00
-  initializedAtString: 2024-03-16T16:23:55.987+10:00
+  lastUpdatedAtString: 2024-03-21T17:57:06.602+10:00
+  initializedAtString: 2024-03-21T16:56:56.611+10:00
   localBranches:
   - name: master
     tracking: origin/master
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -44,9 +46,15 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
+      - master
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/whateverusername0/japierdole228.git
+        trackingBranch: 
+      - name: master
         remote:
           name: origin
           url: https://github.com/whateverusername0/japierdole228.git

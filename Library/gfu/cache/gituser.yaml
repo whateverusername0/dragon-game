@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:GitUserCache
   cacheType: 8
-  lastUpdatedAtString: 2024-03-16T17:00:37.573+10:00
-  initializedAtString: 2024-03-16T16:24:09.529+10:00
+  lastUpdatedAtString: 2024-03-21T18:36:57.098+10:00
+  initializedAtString: 2024-03-21T17:01:56.837+10:00
   gitName: whateverusername0
   gitEmail: whateveremail
