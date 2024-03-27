@@ -13,359 +13,117 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:GitStatusCache
   cacheType: 6
-  lastUpdatedAtString: 2024-03-21T18:54:48.625+10:00
-  initializedAtString: 2024-03-21T16:56:56.081+10:00
+  lastUpdatedAtString: 2024-03-27T13:01:11.748+10:00
+  initializedAtString: 2024-03-27T13:00:02.492+10:00
   entries:
-  - path: Assembly-CSharp.csproj
-    fullPath: D:\CODE\UNITY\japierdole228\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\lib\LeaderboardCreator\Editor\LeaderboardCreatorEditor.asmdef
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Editor\LeaderboardCreatorEditor.asmdef
-    projectPath: Assets\lib\LeaderboardCreator\Editor\LeaderboardCreatorEditor.asmdef
+  - path: Assets\src\Media\b1.png
+    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Media\b1.png
+    projectPath: Assets\src\Media\b1.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\Editor\LeaderboardCreatorWindow.cs
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Editor\LeaderboardCreatorWindow.cs
-    projectPath: Assets\lib\LeaderboardCreator\Editor\LeaderboardCreatorWindow.cs
+  - path: Assets\src\Media\b1a.png
+    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Media\b1a.png
+    projectPath: Assets\src\Media\b1a.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\leaderboards.json
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\leaderboards.json
-    projectPath: Assets\lib\LeaderboardCreator\leaderboards.json
+  - path: Assets\src\Media\b2.png
+    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Media\b2.png
+    projectPath: Assets\src\Media\b2.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\Resources\LeaderboardCreatorConfig.asset
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Resources\LeaderboardCreatorConfig.asset
-    projectPath: Assets\lib\LeaderboardCreator\Resources\LeaderboardCreatorConfig.asset
+  - path: Assets\src\Media\b2a.png
+    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Media\b2a.png
+    projectPath: Assets\src\Media\b2a.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\Scripts\Dan.asmdef
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Scripts\Dan.asmdef
-    projectPath: Assets\lib\LeaderboardCreator\Scripts\Dan.asmdef
+  - path: Assets\src\Media\b3.png
+    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Media\b3.png
+    projectPath: Assets\src\Media\b3.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\Scripts\Enums\Routes.cs
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Scripts\Enums\Routes.cs
-    projectPath: Assets\lib\LeaderboardCreator\Scripts\Enums\Routes.cs
+  - path: Assets\src\Media\b3a.png
+    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Media\b3a.png
+    projectPath: Assets\src\Media\b3a.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\Scripts\Enums\StatusCode.cs
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Scripts\Enums\StatusCode.cs
-    projectPath: Assets\lib\LeaderboardCreator\Scripts\Enums\StatusCode.cs
+  - path: Assets\src\Media\b4.png
+    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Media\b4.png
+    projectPath: Assets\src\Media\b4.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\Scripts\Enums\TimePeriodType.cs
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Scripts\Enums\TimePeriodType.cs
-    projectPath: Assets\lib\LeaderboardCreator\Scripts\Enums\TimePeriodType.cs
+  - path: Assets\src\Media\b4a.png
+    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Media\b4a.png
+    projectPath: Assets\src\Media\b4a.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\Scripts\Main\LeaderboardCreator.cs
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Scripts\Main\LeaderboardCreator.cs
-    projectPath: Assets\lib\LeaderboardCreator\Scripts\Main\LeaderboardCreator.cs
+  - path: Assets\src\Media\bgrect1.png
+    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Media\bgrect1.png
+    projectPath: Assets\src\Media\bgrect1.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\Scripts\Main\LeaderboardCreatorBehaviour.cs
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Scripts\Main\LeaderboardCreatorBehaviour.cs
-    projectPath: Assets\lib\LeaderboardCreator\Scripts\Main\LeaderboardCreatorBehaviour.cs
+  - path: Assets\src\Media\c.png
+    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Media\c.png
+    projectPath: Assets\src\Media\c.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\Scripts\Main\LeaderboardReference.cs
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Scripts\Main\LeaderboardReference.cs
-    projectPath: Assets\lib\LeaderboardCreator\Scripts\Main\LeaderboardReference.cs
+  - path: Assets\src\Media\m.png
+    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Media\m.png
+    projectPath: Assets\src\Media\m.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\Scripts\Main\Leaderboards.cs
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Scripts\Main\Leaderboards.cs
-    projectPath: Assets\lib\LeaderboardCreator\Scripts\Main\Leaderboards.cs
+  - path: Assets\src\Media\ryan-gosling-comb-over.jpg
+    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Media\ryan-gosling-comb-over.jpg
+    projectPath: Assets\src\Media\ryan-gosling-comb-over.jpg
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\Scripts\Models\Entry.cs
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Scripts\Models\Entry.cs
-    projectPath: Assets\lib\LeaderboardCreator\Scripts\Models\Entry.cs
+  - path: Assets\src\Media\settingb.png
+    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Media\settingb.png
+    projectPath: Assets\src\Media\settingb.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\Scripts\Models\LeaderboardSearchQuery.cs
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Scripts\Models\LeaderboardSearchQuery.cs
-    projectPath: Assets\lib\LeaderboardCreator\Scripts\Models\LeaderboardSearchQuery.cs
+  - path: "Assets\\src\\Media\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F \u0431\u043E\u043B\u0432\u0430\u043D\u043A\u0430
+      \u0442\u043E\u0447\u043D\u043E.png"
+    fullPath: "D:\\CODE\\UNITY\\japierdole228\\Assets\\src\\Media\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F
+      \u0431\u043E\u043B\u0432\u0430\u043D\u043A\u0430 \u0442\u043E\u0447\u043D\u043E.png"
+    projectPath: "Assets\\src\\Media\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F
+      \u0431\u043E\u043B\u0432\u0430\u043D\u043A\u0430 \u0442\u043E\u0447\u043D\u043E.png"
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\Scripts\Utils\ConstantVariables.cs
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Scripts\Utils\ConstantVariables.cs
-    projectPath: Assets\lib\LeaderboardCreator\Scripts\Utils\ConstantVariables.cs
+  - path: "Assets\\src\\Media\\\u043C\u0430\u0433\u0430\u0437\u0438\u043D\u0447\u0438\u043A.png"
+    fullPath: "D:\\CODE\\UNITY\\japierdole228\\Assets\\src\\Media\\\u043C\u0430\u0433\u0430\u0437\u0438\u043D\u0447\u0438\u043A.png"
+    projectPath: "Assets\\src\\Media\\\u043C\u0430\u0433\u0430\u0437\u0438\u043D\u0447\u0438\u043A.png"
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\Scripts\Utils\ExtensionMethods.cs
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Scripts\Utils\ExtensionMethods.cs
-    projectPath: Assets\lib\LeaderboardCreator\Scripts\Utils\ExtensionMethods.cs
+  - path: "Assets\\src\\Media\\\u043E\u043A\u043E\u0448\u043A\u043E_\u0432_\u0442\u0430\u0431\u043B_\u043B\u0438\u0434\u0435\u0440\u043E\u0432_\u0434\u043B\u044F1\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044F.png"
+    fullPath: "D:\\CODE\\UNITY\\japierdole228\\Assets\\src\\Media\\\u043E\u043A\u043E\u0448\u043A\u043E_\u0432_\u0442\u0430\u0431\u043B_\u043B\u0438\u0434\u0435\u0440\u043E\u0432_\u0434\u043B\u044F1\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044F.png"
+    projectPath: "Assets\\src\\Media\\\u043E\u043A\u043E\u0448\u043A\u043E_\u0432_\u0442\u0430\u0431\u043B_\u043B\u0438\u0434\u0435\u0440\u043E\u0432_\u0434\u043B\u044F1\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044F.png"
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\Scripts\Utils\LeaderboardCreatorConfig.cs
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Scripts\Utils\LeaderboardCreatorConfig.cs
-    projectPath: Assets\lib\LeaderboardCreator\Scripts\Utils\LeaderboardCreatorConfig.cs
+  - path: "Assets\\src\\Media\\\u0441\u043F\u0440\u0430\u0439\u0442_\u0438\u043B\u0438_\u0438\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u044C.png"
+    fullPath: "D:\\CODE\\UNITY\\japierdole228\\Assets\\src\\Media\\\u0441\u043F\u0440\u0430\u0439\u0442_\u0438\u043B\u0438_\u0438\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u044C.png"
+    projectPath: "Assets\\src\\Media\\\u0441\u043F\u0440\u0430\u0439\u0442_\u0438\u043B\u0438_\u0438\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u044C.png"
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\lib\LeaderboardCreator\Scripts\Utils\Requests.cs
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\LeaderboardCreator\Scripts\Utils\Requests.cs
-    projectPath: Assets\lib\LeaderboardCreator\Scripts\Utils\Requests.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\MonoSingleton.cs
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\MonoSingleton.cs
-    projectPath: Assets\lib\MonoSingleton.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Documentation\TextMesh
-      Pro User Guide 2016.pdf
-    projectPath: Assets\lib\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Fonts\LiberationSans - OFL.txt
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Fonts\LiberationSans
-      - OFL.txt
-    projectPath: Assets\lib\TextMesh Pro\Fonts\LiberationSans - OFL.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Fonts\LiberationSans.ttf
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Fonts\LiberationSans.ttf
-    projectPath: Assets\lib\TextMesh Pro\Fonts\LiberationSans.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Drop Shadow.mat
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Resources\Fonts
-      & Materials\LiberationSans SDF - Drop Shadow.mat
-    projectPath: Assets\lib\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
-      SDF - Drop Shadow.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Fallback.asset
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Resources\Fonts
-      & Materials\LiberationSans SDF - Fallback.asset
-    projectPath: Assets\lib\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
-      SDF - Fallback.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Outline.mat
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Resources\Fonts
-      & Materials\LiberationSans SDF - Outline.mat
-    projectPath: Assets\lib\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
-      SDF - Outline.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Resources\Fonts
-      & Materials\LiberationSans SDF.asset
-    projectPath: Assets\lib\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
-      SDF.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Resources\LineBreaking Following Characters.txt
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Resources\LineBreaking
-      Following Characters.txt
-    projectPath: Assets\lib\TextMesh Pro\Resources\LineBreaking Following Characters.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Resources\LineBreaking
-      Leading Characters.txt
-    projectPath: Assets\lib\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Resources\Sprite
-      Assets\EmojiOne.asset
-    projectPath: Assets\lib\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Resources\Style
-      Sheets\Default Style Sheet.asset
-    projectPath: Assets\lib\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Resources\TMP Settings.asset
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Resources\TMP Settings.asset
-    projectPath: Assets\lib\TextMesh Pro\Resources\TMP Settings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMP_Bitmap.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMP_Bitmap.shader
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMP_Bitmap.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMP_SDF
-      Overlay.shader
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMP_SDF SSD.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMP_SDF
-      SSD.shader
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMP_SDF SSD.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMP_SDF.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMP_SDF.shader
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMP_SDF.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Mobile
-      Masking.shader
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Mobile
-      Overlay.shader
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Mobile
-      SSD.shader
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMP_Sprite.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMP_Sprite.shader
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMP_Sprite.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMPro.cginc
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMPro.cginc
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMPro.cginc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMPro_Mobile.cginc
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMPro_Mobile.cginc
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMPro_Mobile.cginc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMPro_Properties.cginc
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMPro_Properties.cginc
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMPro_Properties.cginc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Shaders\TMPro_Surface.cginc
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Shaders\TMPro_Surface.cginc
-    projectPath: Assets\lib\TextMesh Pro\Shaders\TMPro_Surface.cginc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Sprites\EmojiOne Attribution.txt
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Sprites\EmojiOne
-      Attribution.txt
-    projectPath: Assets\lib\TextMesh Pro\Sprites\EmojiOne Attribution.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Sprites\EmojiOne.json
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Sprites\EmojiOne.json
-    projectPath: Assets\lib\TextMesh Pro\Sprites\EmojiOne.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\lib\TextMesh Pro\Sprites\EmojiOne.png
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\lib\TextMesh Pro\Sprites\EmojiOne.png
-    projectPath: Assets\lib\TextMesh Pro\Sprites\EmojiOne.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\src\Misc\VCR_OSD_MONO SDF.asset
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Misc\VCR_OSD_MONO SDF.asset
-    projectPath: Assets\src\Misc\VCR_OSD_MONO SDF.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\src\Misc\VCR_OSD_MONO.ttf
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Misc\VCR_OSD_MONO.ttf
-    projectPath: Assets\src\Misc\VCR_OSD_MONO.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\src\Prefabs\Prototype\Leaderboard.prefab
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Prefabs\Prototype\Leaderboard.prefab
-    projectPath: Assets\src\Prefabs\Prototype\Leaderboard.prefab
+  - path: "Assets\\src\\Media\\\u0444\u043E\u043D_\u0432_\u0442\u0430\u0431\u043B\u0438\u0446\u0435_\u043B\u0438\u0434\u0435\u0440\u043E\u0432.png"
+    fullPath: "D:\\CODE\\UNITY\\japierdole228\\Assets\\src\\Media\\\u0444\u043E\u043D_\u0432_\u0442\u0430\u0431\u043B\u0438\u0446\u0435_\u043B\u0438\u0434\u0435\u0440\u043E\u0432.png"
+    projectPath: "Assets\\src\\Media\\\u0444\u043E\u043D_\u0432_\u0442\u0430\u0431\u043B\u0438\u0446\u0435_\u043B\u0438\u0434\u0435\u0440\u043E\u0432.png"
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -375,217 +133,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\src\Scripts\LeaderboardController.cs
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Scripts\LeaderboardController.cs
-    projectPath: Assets\src\Scripts\LeaderboardController.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Documentation\TextMesh
-      Pro User Guide 2016.pdf
-    projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Fonts\LiberationSans
-      - OFL.txt
-    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Fonts\LiberationSans.ttf
-    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
-      Shadow.mat
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
-      SDF - Drop Shadow.mat
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Drop Shadow.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
-      SDF - Fallback.asset
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Fallback.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
-      SDF - Outline.mat
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Outline.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
-      SDF.asset
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Resources\LineBreaking
-      Following Characters.txt
-    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Resources\LineBreaking
-      Leading Characters.txt
-    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
-    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Resources\Style Sheets\Default
-      Style Sheet.asset
-    projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Resources\TMP Settings.asset
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Resources\TMP Settings.asset
-    projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMP_SDF.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF.shader
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile
-      Masking.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile
-      Overlay.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile
-      SSD.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMP_Sprite.shader
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_Sprite.shader
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMPro.cginc
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMPro.cginc
-    projectPath: Assets\TextMesh Pro\Shaders\TMPro.cginc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
-    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
-    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
-    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
-    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Sprites\EmojiOne.json
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Sprites\EmojiOne.json
-    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Sprites\EmojiOne.png
-    fullPath: D:\CODE\UNITY\japierdole228\Assets\TextMesh Pro\Sprites\EmojiOne.png
-    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png
+  - path: Assets\src\Sprites\ryan-gosling-comb-over.jpg
+    fullPath: D:\CODE\UNITY\japierdole228\Assets\src\Sprites\ryan-gosling-comb-over.jpg
+    projectPath: Assets\src\Sprites\ryan-gosling-comb-over.jpg
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -593,77 +143,17 @@ MonoBehaviour:
     fullPath: D:\CODE\UNITY\japierdole228\Dan.csproj
     projectPath: Dan.csproj
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: japierdole228.sln
-    fullPath: D:\CODE\UNITY\japierdole228\japierdole228.sln
-    projectPath: japierdole228.sln
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: LeaderboardCreatorEditor.csproj
-    fullPath: D:\CODE\UNITY\japierdole228\LeaderboardCreatorEditor.csproj
-    projectPath: LeaderboardCreatorEditor.csproj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: D:\CODE\UNITY\japierdole228\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Bee\1900b0aE.dag
-    fullPath: D:\CODE\UNITY\japierdole228\Library\Bee\1900b0aE.dag
-    projectPath: Library\Bee\1900b0aE.dag
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\1900b0aE.dag.json
-    fullPath: D:\CODE\UNITY\japierdole228\Library\Bee\1900b0aE.dag.json
-    projectPath: Library\Bee\1900b0aE.dag.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\1900b0aE.dag.outputdata
-    fullPath: D:\CODE\UNITY\japierdole228\Library\Bee\1900b0aE.dag.outputdata
-    projectPath: Library\Bee\1900b0aE.dag.outputdata
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\1900b0aE.dag.payloads
-    fullPath: D:\CODE\UNITY\japierdole228\Library\Bee\1900b0aE.dag.payloads
-    projectPath: Library\Bee\1900b0aE.dag.payloads
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\1900b0aE.dag_derived
-    fullPath: D:\CODE\UNITY\japierdole228\Library\Bee\1900b0aE.dag_derived
-    projectPath: Library\Bee\1900b0aE.dag_derived
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\1900b0aE-inputdata.json
-    fullPath: D:\CODE\UNITY\japierdole228\Library\Bee\1900b0aE-inputdata.json
-    projectPath: Library\Bee\1900b0aE-inputdata.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\Bee\backend1.traceevents
     fullPath: D:\CODE\UNITY\japierdole228\Library\Bee\backend1.traceevents
     projectPath: Library\Bee\backend1.traceevents
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\backend2.traceevents
-    fullPath: D:\CODE\UNITY\japierdole228\Library\Bee\backend2.traceevents
-    projectPath: Library\Bee\backend2.traceevents
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\buildprogram0.traceevents
-    fullPath: D:\CODE\UNITY\japierdole228\Library\Bee\buildprogram0.traceevents
-    projectPath: Library\Bee\buildprogram0.traceevents
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -701,14 +191,8 @@ MonoBehaviour:
     fullPath: D:\CODE\UNITY\japierdole228\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\expandedItems
-    fullPath: D:\CODE\UNITY\japierdole228\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\gfu\cache\branches.yaml
     fullPath: D:\CODE\UNITY\japierdole228\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -757,135 +241,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: D:\CODE\UNITY\japierdole228\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\LastSceneManagerSetup.txt
-    fullPath: D:\CODE\UNITY\japierdole228\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: D:\CODE\UNITY\japierdole228\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: D:\CODE\UNITY\japierdole228\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Dan.dll
-    fullPath: D:\CODE\UNITY\japierdole228\Library\ScriptAssemblies\Dan.dll
-    projectPath: Library\ScriptAssemblies\Dan.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ScriptAssemblies\LeaderboardCreatorEditor.dll
-    fullPath: D:\CODE\UNITY\japierdole228\Library\ScriptAssemblies\LeaderboardCreatorEditor.dll
-    projectPath: Library\ScriptAssemblies\LeaderboardCreatorEditor.dll
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\Search\transactions.db
     fullPath: D:\CODE\UNITY\japierdole228\Library\Search\transactions.db
     projectPath: Library\Search\transactions.db
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\1d449ed19adac1f5152abad5526b52e7.bin
-    fullPath: D:\CODE\UNITY\japierdole228\Library\ShaderCache\builtin\unity_builtin_extra0000\00\1d449ed19adac1f5152abad5526b52e7.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\1d449ed19adac1f5152abad5526b52e7.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\66c06515fa7f6d405e15fc7ad0aee19b.bin
-    fullPath: D:\CODE\UNITY\japierdole228\Library\ShaderCache\builtin\unity_builtin_extra0000\00\66c06515fa7f6d405e15fc7ad0aee19b.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\66c06515fa7f6d405e15fc7ad0aee19b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\ac83961d9599e7161ddaac3153862bcf.bin
-    fullPath: D:\CODE\UNITY\japierdole228\Library\ShaderCache\builtin\unity_builtin_extra0000\00\ac83961d9599e7161ddaac3153862bcf.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\ac83961d9599e7161ddaac3153862bcf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\builtin\unity_builtin_extra0000\00\dd5d380a49597fd8ae785d9a683df700.bin
-    fullPath: D:\CODE\UNITY\japierdole228\Library\ShaderCache\builtin\unity_builtin_extra0000\00\dd5d380a49597fd8ae785d9a683df700.bin
-    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\dd5d380a49597fd8ae785d9a683df700.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: D:\CODE\UNITY\japierdole228\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache\shader\TMP_SDF68e6\00\73dc0791494f01889406a4a777bdb2fa.bin
-    fullPath: D:\CODE\UNITY\japierdole228\Library\ShaderCache\shader\TMP_SDF68e6\00\73dc0791494f01889406a4a777bdb2fa.bin
-    projectPath: Library\ShaderCache\shader\TMP_SDF68e6\00\73dc0791494f01889406a4a777bdb2fa.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\TMP_SDF68e6\00\91595a381b3a760e4e37cd40c65071bf.bin
-    fullPath: D:\CODE\UNITY\japierdole228\Library\ShaderCache\shader\TMP_SDF68e6\00\91595a381b3a760e4e37cd40c65071bf.bin
-    projectPath: Library\ShaderCache\shader\TMP_SDF68e6\00\91595a381b3a760e4e37cd40c65071bf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\21e06c833612319b019bda3e9b27f6db.bin
-    fullPath: D:\CODE\UNITY\japierdole228\Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\21e06c833612319b019bda3e9b27f6db.bin
-    projectPath: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\21e06c833612319b019bda3e9b27f6db.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\2ec4e3de6aca257e9645241aed3cc9ff.bin
-    fullPath: D:\CODE\UNITY\japierdole228\Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\2ec4e3de6aca257e9645241aed3cc9ff.bin
-    projectPath: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\2ec4e3de6aca257e9645241aed3cc9ff.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\6ac1e5f4015757e3e1551988aa0dc61e.bin
-    fullPath: D:\CODE\UNITY\japierdole228\Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\6ac1e5f4015757e3e1551988aa0dc61e.bin
-    projectPath: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\6ac1e5f4015757e3e1551988aa0dc61e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\6e97ca94e7f6cdab35ae20bb501cd0cf.bin
-    fullPath: D:\CODE\UNITY\japierdole228\Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\6e97ca94e7f6cdab35ae20bb501cd0cf.bin
-    projectPath: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\6e97ca94e7f6cdab35ae20bb501cd0cf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\b0faf9665b2bb7496cdf9256dcba0120.bin
-    fullPath: D:\CODE\UNITY\japierdole228\Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\b0faf9665b2bb7496cdf9256dcba0120.bin
-    projectPath: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\b0faf9665b2bb7496cdf9256dcba0120.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\ee8f4f19cca3d0c9f4fd745fd58995fa.bin
-    fullPath: D:\CODE\UNITY\japierdole228\Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\ee8f4f19cca3d0c9f4fd745fd58995fa.bin
-    projectPath: Library\ShaderCache\shader\TMP_SDF-Mobilefe39\00\ee8f4f19cca3d0c9f4fd745fd58995fa.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\SourceAssetDB
     fullPath: D:\CODE\UNITY\japierdole228\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    fullPath: D:\CODE\UNITY\japierdole228\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -895,27 +265,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\UIElements\EditorWindows\UnityEditor.InspectorWindow.pref
-    fullPath: D:\CODE\UNITY\japierdole228\Library\UIElements\EditorWindows\UnityEditor.InspectorWindow.pref
-    projectPath: Library\UIElements\EditorWindows\UnityEditor.InspectorWindow.pref
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: D:\CODE\UNITY\japierdole228\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\FSTimeGet-7abc4b6b6f629b14283e6d145f4cb21a
-    fullPath: D:\CODE\UNITY\japierdole228\Temp\FSTimeGet-7abc4b6b6f629b14283e6d145f4cb21a
-    projectPath: Temp\FSTimeGet-7abc4b6b6f629b14283e6d145f4cb21a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\FSTimeGet-d0918f0b25a9f1e4c871e85898399cec
-    fullPath: D:\CODE\UNITY\japierdole228\Temp\FSTimeGet-d0918f0b25a9f1e4c871e85898399cec
-    projectPath: Temp\FSTimeGet-d0918f0b25a9f1e4c871e85898399cec
+  - path: Temp\FSTimeGet-e3e955203b2a6524aa9829095c795f1a
+    fullPath: D:\CODE\UNITY\japierdole228\Temp\FSTimeGet-e3e955203b2a6524aa9829095c795f1a
+    projectPath: Temp\FSTimeGet-e3e955203b2a6524aa9829095c795f1a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

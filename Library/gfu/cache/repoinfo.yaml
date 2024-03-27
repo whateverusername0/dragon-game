@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:RepositoryInfoCache
   cacheType: 1
-  lastUpdatedAtString: 2024-03-21T17:57:04.219+10:00
-  initializedAtString: 2024-03-21T16:56:54.560+10:00
+  lastUpdatedAtString: 2024-03-27T13:00:01.947+10:00
+  initializedAtString: 2024-03-27T13:00:01.947+10:00
   currentGitRemote:
     name: origin
     url: https://github.com/whateverusername0/japierdole228.git

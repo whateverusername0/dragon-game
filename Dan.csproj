@@ -68,8 +68,8 @@
     <Compile Include="Assets\lib\LeaderboardCreator\Scripts\Utils\LeaderboardCreatorConfig.cs" />
     <Compile Include="Assets\lib\LeaderboardCreator\Scripts\Utils\ExtensionMethods.cs" />
     <Compile Include="Assets\lib\LeaderboardCreator\Scripts\Models\Entry.cs" />
-    <Compile Include="Assets\lib\LeaderboardCreator\Scripts\Utils\ConstantVariables.cs" />
     <Compile Include="Assets\lib\LeaderboardCreator\Scripts\Models\LeaderboardSearchQuery.cs" />
+    <Compile Include="Assets\lib\LeaderboardCreator\Scripts\Utils\ConstantVariables.cs" />
     <Compile Include="Assets\lib\LeaderboardCreator\Scripts\Utils\Requests.cs" />
     <Compile Include="Assets\lib\LeaderboardCreator\Scripts\Enums\Routes.cs" />
     <Compile Include="Assets\lib\LeaderboardCreator\Scripts\Main\LeaderboardCreator.cs" />
