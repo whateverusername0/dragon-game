@@ -14,7 +14,7 @@ public class UIPanel : MonoBehaviour
     //⠘⣿⣿⣿⣿⣆⠻⣄⠁⣀⡀⠉⠙⠒⠂⠉⠍⠉⠉⠉⠉⣩⣍⣁⣂⡈⠠⠂⠁⠁
     //⠁⠘⢿⣿⣿⣿⣦⡉⠳⢬⣛⠷⢦⡄⠁⠁⠁⠁⠁⣀⣼⣿⣿⠿⠛⠋⠁⠁⠁⠁
     //⠁⠁⠁⠉⠻⢿⣿⣿⣷⣦⣬⣍⣓⡒⠒⣒⣂⣠⡬⠽⠓⠂⠁⠁⠁⠁⠁⠁⠁⠁
-    [field: SerializeField] public Vector2 InitPosition { get; private set; }
+    [field: SerializeField] public Vector3 InitPosition { get; private set; }
     [field: SerializeField] public bool IsActive { get; set; }
 
     public static UIPanel GetActivePanel()
@@ -36,22 +36,24 @@ public class UIPanel : MonoBehaviour
 
     private IEnumerator Move()
     {
-        var timeElaps = 0f;
-        var lerpDur = .5f;
         var activePan = GetActivePanel();
 
         while (!IsActive)
         {
-            while (timeElaps < lerpDur)
-                transform.position = Vector2.Lerp(transform.position, new Vector2(0, 0), timeElaps / lerpDur);
-            transform.position = new Vector2(0, 0);
+            UICustomButton.GlobalEnable(false);
+            transform.position = Vector3.zero;
 
-            activePan.IsActive = false;
-            activePan.transform.position = activePan.InitPosition;
+            if (activePan != null)
+            {
+                activePan.IsActive = false;
+                activePan.transform.position = activePan.InitPosition;
+            }
 
             this.IsActive = true;
-        }
+            yield return new WaitForEndOfFrame();
 
-        yield return null;
+            UICustomButton.GlobalEnable(true);
+        }
+        yield break; 
     }
 }
