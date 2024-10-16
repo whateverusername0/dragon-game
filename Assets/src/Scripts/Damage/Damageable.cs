@@ -34,6 +34,47 @@ namespace Content.Damage
             GM.EventBus.SubscribeTo<AfterTakeDamageEvent>(AfterTakeDamage);
         }
 
+        #region Public API
+
+        public static bool DealDamage(GameObject target, float damage)
+            => DealDamage(target, new Dictionary<DamageType, float>() { { DamageType.Basic, damage } });
+        public static bool DealDamage(GameObject target,  Dictionary<DamageType, float> damage)
+        {
+            if (!target.TryGetComponent<Damageable>(out var comp))
+                return false;
+
+            return DealDamage(target, comp, damage);
+        }
+        public static bool DealDamage(GameObject target, Damageable comp, Dictionary<DamageType, float> damage)
+        {
+            var ev = new DealDamageEvent(target, damage);
+
+            GM.EventBus.Raise(ev);
+
+            return ev.Cancelled;
+        }
+
+        public bool TakeDamage(GameObject entity, float damage)
+            => TakeDamage(entity, new Dictionary<DamageType, float>() { { DamageType.Basic, damage } });
+        public bool TakeDamage(GameObject entity, Dictionary<DamageType, float> damage)
+        {
+            if (!entity.TryGetComponent<Damageable>(out var comp))
+                return false;
+
+            return TakeDamage(entity, comp, damage);
+        }
+        public bool TakeDamage(GameObject entity, Damageable comp, Dictionary<DamageType, float> damage)
+        {
+            // damage is being edited in certain events so i'll just use it over and over
+            GM.EventBus.Raise(new BeforeTakeDamageEvent(entity, damage));
+            GM.EventBus.Raise(new TakeDamageEvent(entity, damage));
+            GM.EventBus.Raise(new AfterTakeDamageEvent(entity, damage));
+
+            return true;
+        }
+
+        #endregion
+
         #region Events
 
         private void BeforeTakeDamage(ref BeforeTakeDamageEvent args)
@@ -75,24 +116,6 @@ namespace Content.Damage
         }
 
         #endregion
-
-        #region Public API
-
-        public bool TakeDamage(GameObject entity, Dictionary<DamageType, float> damage)
-        {
-            if (entity == null
-            || !entity.TryGetComponent<Damageable>(out _))
-                return false;
-
-            // damage is being edited in certain events so i'll just use it over and over
-            GM.EventBus.Raise(new BeforeTakeDamageEvent(entity, damage));
-            GM.EventBus.Raise(new TakeDamageEvent(entity, damage));
-            GM.EventBus.Raise(new AfterTakeDamageEvent(entity, damage));
-
-            return true;
-        }
-
-        #endregion
     }
 
     public enum DamageType
@@ -102,6 +125,17 @@ namespace Content.Damage
     }
 
     #region Events
+
+    public sealed class DealDamageEvent : CancellableEntityEventArgs
+    {
+        public Dictionary<DamageType, float> Damage = new();
+
+        public DealDamageEvent(GameObject gameObject) : base(gameObject) { }
+        public DealDamageEvent(GameObject target, Dictionary<DamageType, float> damage) : base(target)
+        {
+            Damage = damage;
+        }
+    }
 
     public class TakeDamageEvent : HandledEntityEventArgs
     {

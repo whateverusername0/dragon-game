@@ -9,7 +9,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <RootNamespace></RootNamespace>
+    <RootNamespace>
+    </RootNamespace>
     <ProjectGuid>{C3566722-EDDB-9009-A253-4E7EBCF60D87}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -60,6 +61,8 @@
     <Analyzer Include="D:\Apps\Unity\Editor\2022.3.21f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\lib\BaseClasses\Events\TargetedEventBus.cs" />
+    <Compile Include="Assets\src\Scripts\Input\ClickDetector.cs" />
     <Compile Include="Assets\src\Scripts\UserInterface\LeaderboardController.cs" />
     <Compile Include="Assets\src\Scripts\GameManager.cs" />
     <Compile Include="Assets\src\Scripts\UserInterface\UIPanel.cs" />
